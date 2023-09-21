@@ -11,3 +11,4 @@
 |     PostgreSQL       |          C           |         Row          |         No           | https://github.com/postgres/postgres     | https://www.postgresql.org/                                  |
 |     YugabyteDB       |        C/C++         |        Column        |        Yes           | https://github.com/yugabyte/yugabyte-db  | https://www.yugabyte.com/                                    |
 |    FirebirdSQL       |        C++/C         |         Row          |         No           | https://github.com/FirebirdSQL/firebird  | https://firebirdsql.org/                                     |
+|    CockroachDB       |         Go           |        Column        |        Yes           | https://github.com/cockroachdb/cockroach | https://www.cockroachlabs.com/product/                       |
