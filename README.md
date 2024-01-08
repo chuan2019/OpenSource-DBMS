@@ -20,3 +20,4 @@
 |         DBMS         |       Language       |     Cloud Native     |                 Github Repo              |                    Affliated Organization                    |
 | -------------------- | -------------------- | -------------------- | ---------------------------------------- | ------------------------------------------------------------ |
 |       ScyllaDB       |         C++          |         No           | https://github.com/scylladb/scylladb     | https://www.scylladb.com                                     |
+|       MongoDB        |         C++          |         No           | https://github.com/mongodb/mongo         | https://www.mongodb.com                                      |
