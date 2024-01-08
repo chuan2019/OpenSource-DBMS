@@ -1,4 +1,4 @@
-# OpenSource-RDBMS
+# OpenSource RDBMS
 
 |         RDBMS        |       Language       |      Column or Row   |     Cloud Native     |                 Github Repo              |                    Affliated Organization                    |
 | -------------------- | -------------------- | -------------------- | -------------------- | ---------------------------------------- | ------------------------------------------------------------ |
@@ -13,3 +13,10 @@
 |    FirebirdSQL       |        C++/C         |         Row          |         No           | https://github.com/FirebirdSQL/firebird  | https://firebirdsql.org/                                     |
 |    CockroachDB       |         Go           |        Column        |        Yes           | https://github.com/cockroachdb/cockroach | https://www.cockroachlabs.com/product/                       |
 |        TiDB          |         Go           |        Column        |        Yes           | https://github.com/pingcap/tidb          | https://www.pingcap.com/                                     |
+
+
+# OpenSource NoSQL DBMS
+
+|         DBMS         |       Language       |     Cloud Native     |                 Github Repo              |                    Affliated Organization                    |
+| -------------------- | -------------------- | -------------------- | ---------------------------------------- | ------------------------------------------------------------ |
+|       ScyllaDB       |         C++          |         No           | https://github.com/scylladb/scylladb     | https://www.scylladb.com                                     |
