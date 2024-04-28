@@ -17,7 +17,10 @@
 
 # OpenSource NoSQL DBMS
 
-|         DBMS         |       Language       |     Cloud Native     |                 Github Repo              |                    Affliated Organization                    |
-| -------------------- | -------------------- | -------------------- | ---------------------------------------- | ------------------------------------------------------------ |
-|       ScyllaDB       |         C++          |         No           | https://github.com/scylladb/scylladb     | https://www.scylladb.com                                     |
-|       MongoDB        |         C++          |         No           | https://github.com/mongodb/mongo         | https://www.mongodb.com                                      |
+|         DBMS         |       Language       |     Cloud Native     |                 Github Repo                   |                    Affliated Organization                    |
+| -------------------- | -------------------- | -------------------- | --------------------------------------------- | ------------------------------------------------------------ |
+|       ScyllaDB       |         C++          |         Yes          | https://github.com/scylladb/scylladb          | https://www.scylladb.com                                     |
+|       MongoDB        |         C++          |         Yes          | https://github.com/mongodb/mongo              | https://www.mongodb.com                                      |
+|      Cassandra       |        Java          |         Yes          | https://github.com/apache/cassandra           | https://www.datastax.com/                                    |
+|        Redis         |          C           |         Yes          | https://github.com/redis/redis                | https://redis.io/                                            |
+|      OrientDB        |        Java          |         Yes          | https://github.com/orientechnologies/orientdb | https://orientdb.org/                                        |
