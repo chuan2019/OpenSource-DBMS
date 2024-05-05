@@ -29,8 +29,13 @@
 
 Mohamed A.S, Lyublena A, Venkatesh R, Amr E-H, Zhongxian G, etc. (2014) [Orca: a modular query optimizer architecture for big data](https://dl.acm.org/doi/10.1145/2588555.2595637) SIGMOD '14: Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data, June 2014, pp. 337-348, [GPORCA: the Greenplum Next Generation Query Optimizer](https://github.com/greenplum-db/gporca)
 
+Mario A.M, Yuan S, Michael K and Saman K.H (2015) [ALgorithm selection for black-box continuous optimization problems: a survey on methods and challenges](https://www.sciencedirect.com/science/article/abs/pii/S0020025515003680) 
+
 Viktor L, Andrey G, Atanas M, Peter B, Alfons K and Thomas N (2015) [How good are query optimizers, really?](https://dl.acm.org/doi/10.14778/2850583.2850594) Proceedings of the VLDB Endowment, Vol. 9(3), pp. 204-215, [IMDB/JOB Workload](https://github.com/RyanMarcus/imdb_pg_dataset)
 
 Ryan M, Parimarjan N, Hongzi M, Nesime T, Mohammad A and Time K (2021) [Bao: making learned query optimization practical](https://dl.acm.org/doi/10.1145/3448016.3452838) SIGMOD '21: Proceedings of the 2021 International Conference on Management of Data, June 2021, pp. 1275-1288, [Bao, a learned query optimizer for PostgreSQL](https://github.com/learnedsystems/BaoForPostgreSQL)
+ - [Applying Bao to distributed systems](https://rmarcus.info/blog/2021/06/17/bao-distributed.html)
+ - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
+ - [Most influential database papers](https://rmarcus.info/blog/2023/07/25/papers.html)
 
 Christoph A, Nesime T, David C, Zhenggang X and Prithviraj P (2023) [AutoSteer: learned query optimization for any SQL database](https://dl.acm.org/doi/10.14778/3611540.3611544) Proceedings of the VLDB Endowment, Vol. 16(12), pp. 3515-3527, [Auto-Steer](https://github.com/IntelLabs/Auto-Steer), [QO-Insight](https://github.com/christophanneser/QO-Insight)
