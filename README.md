@@ -24,3 +24,7 @@
 |      Cassandra       |        Java          |         Yes          | https://github.com/apache/cassandra           | https://www.datastax.com/                                    |
 |        Redis         |          C           |         Yes          | https://github.com/redis/redis                | https://redis.io/                                            |
 |      OrientDB        |        Java          |         Yes          | https://github.com/orientechnologies/orientdb | https://orientdb.org/                                        |
+
+# Important Research Papers
+
+Viktor L, Andrey G, Atanas M, Peter B, Alfons K and Thomas N (2015) [How good are query optimizers, really?](https://dl.acm.org/doi/10.14778/2850583.2850594) Proceedings of the VLDB Endowment, Vol. 9(3), pp. 204-215
