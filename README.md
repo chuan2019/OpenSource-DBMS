@@ -25,10 +25,11 @@
 |        Redis         |          C           |         Yes          | https://github.com/redis/redis                | https://redis.io/                                            |
 |      OrientDB        |        Java          |         Yes          | https://github.com/orientechnologies/orientdb | https://orientdb.org/                                        |
 
-# Important Research Papers
+# Important Research Papers and Github Repos
+
+Mohamed A.S, Lyublena A, Venkatesh R, Amr E-H, Zhongxian G, etc. (2014) [Orca: a modular query optimizer architecture for big data](https://dl.acm.org/doi/10.1145/2588555.2595637) SIGMOD '14: Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data, June 2014, pp. 337-348, [GPORCA: the Greenplum Next Generation Query Optimizer](https://github.com/greenplum-db/gporca)
 
 Viktor L, Andrey G, Atanas M, Peter B, Alfons K and Thomas N (2015) [How good are query optimizers, really?](https://dl.acm.org/doi/10.14778/2850583.2850594) Proceedings of the VLDB Endowment, Vol. 9(3), pp. 204-215, [IMDB/JOB Workload](https://github.com/RyanMarcus/imdb_pg_dataset)
 
 Ryan M, Parimarjan N, Hongzi M, Nesime T, Mohammad A and Time K (2021) [Bao: making learned query optimization practical](https://dl.acm.org/doi/10.1145/3448016.3452838) SIGMOD '21: Proceedings of the 2021 International Conference on Management of Data, June 2021, pp. 1275-1288, [Bao, a learned query optimizer for PostgreSQL](https://github.com/learnedsystems/BaoForPostgreSQL)
 
-Mohamed A.S, Lyublena A, Venkatesh R, Amr E-H, Zhongxian G, etc. (2014) [Orca: a modular query optimizer architecture for big data](https://dl.acm.org/doi/10.1145/2588555.2595637) SIGMOD '14: Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data, June 2014, pp. 337-348, [GPORCA: the Greenplum Next Generation Query Optimizer](https://github.com/greenplum-db/gporca)
