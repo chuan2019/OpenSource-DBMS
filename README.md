@@ -29,7 +29,7 @@
 
 Mohamed A.S, Lyublena A, Venkatesh R, Amr E-H, Zhongxian G, etc. (2014) [Orca: a modular query optimizer architecture for big data](https://dl.acm.org/doi/10.1145/2588555.2595637) SIGMOD '14: Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data, June 2014, pp. 337-348, [GPORCA: the Greenplum Next Generation Query Optimizer](https://github.com/greenplum-db/gporca)
 
-Mario A.M, Yuan S, Michael K and Saman K.H (2015) [ALgorithm selection for black-box continuous optimization problems: a survey on methods and challenges](https://www.sciencedirect.com/science/article/abs/pii/S0020025515003680) 
+Mario A.M, Yuan S, Michael K and Saman K.H (2015) [ALgorithm selection for black-box continuous optimization problems: a survey on methods and challenges](https://www.sciencedirect.com/science/article/abs/pii/S0020025515003680) Information Sciences, Vol. 317(1), pp. 224-245
 
 Viktor L, Andrey G, Atanas M, Peter B, Alfons K and Thomas N (2015) [How good are query optimizers, really?](https://dl.acm.org/doi/10.14778/2850583.2850594) Proceedings of the VLDB Endowment, Vol. 9(3), pp. 204-215, [IMDB/JOB Workload](https://github.com/RyanMarcus/imdb_pg_dataset)
 
