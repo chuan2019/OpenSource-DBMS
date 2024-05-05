@@ -33,4 +33,4 @@ Viktor L, Andrey G, Atanas M, Peter B, Alfons K and Thomas N (2015) [How good ar
 
 Ryan M, Parimarjan N, Hongzi M, Nesime T, Mohammad A and Time K (2021) [Bao: making learned query optimization practical](https://dl.acm.org/doi/10.1145/3448016.3452838) SIGMOD '21: Proceedings of the 2021 International Conference on Management of Data, June 2021, pp. 1275-1288, [Bao, a learned query optimizer for PostgreSQL](https://github.com/learnedsystems/BaoForPostgreSQL)
 
-Christoph A, Nesime T, David C, Zhenggang X and Prithviraj P (2023) [AutoSteer: learned query optimization for any SQL database](https://dl.acm.org/doi/10.14778/3611540.3611544) Proceedings of the VLDB Endowment, Vol. 16(12), pp. 3515-3527, [Auto-Steer](https://github.com/IntelLabs/Auto-Steer)
+Christoph A, Nesime T, David C, Zhenggang X and Prithviraj P (2023) [AutoSteer: learned query optimization for any SQL database](https://dl.acm.org/doi/10.14778/3611540.3611544) Proceedings of the VLDB Endowment, Vol. 16(12), pp. 3515-3527, [Auto-Steer](https://github.com/IntelLabs/Auto-Steer), [QO-Insight](https://github.com/christophanneser/QO-Insight)
