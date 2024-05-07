@@ -27,6 +27,8 @@
 
 # Important Research Papers and Github Repos
 
+## Learned Query Optimizer (LQO)
+
 Mohamed A.S, Lyublena A, Venkatesh R, Amr E-H, Zhongxian G, etc. (2014) [Orca: a modular query optimizer architecture for big data](https://dl.acm.org/doi/10.1145/2588555.2595637) SIGMOD '14: Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data, June 2014, pp. 337-348, [PDF](https://15721.courses.cs.cmu.edu/spring2016/papers/p337-soliman.pdf)
  - [GPORCA: the Greenplum Next Generation Query Optimizer](https://github.com/greenplum-db/gporca)
 
@@ -34,6 +36,8 @@ Mario A.M, Yuan S, Michael K and Saman K.H (2015) [ALgorithm selection for black
 
 Viktor L, Andrey G, Atanas M, Peter B, Alfons K and Thomas N (2015) [How good are query optimizers, really?](https://dl.acm.org/doi/10.14778/2850583.2850594) Proceedings of the VLDB Endowment, Vol. 9(3), pp. 204-215, [PDF](https://www.vldb.org/pvldb/vol9/p204-leis.pdf)
  - [IMDB/JOB Workload](https://github.com/RyanMarcus/imdb_pg_dataset)
+
+Ryan M, Parimarjan N, Hongzi M, Chi Z, Mohammad A, Tim K, Olga P and Nesime T (2019) [Neo: a learned query optimizer](https://dl.acm.org/doi/10.14778/3342263.3342644) Proceedings of the VLDB Endowment, Vol 12(11), pp. 1705-1718 [PDF](https://www.vldb.org/pvldb/vol12/p1705-marcus.pdf)
 
 Ryan M, Parimarjan N, Hongzi M, Nesime T, Mohammad A and Time K (2021) [Bao: making learned query optimization practical](https://dl.acm.org/doi/10.1145/3448016.3452838) SIGMOD '21: Proceedings of the 2021 International Conference on Management of Data, June 2021, pp. 1275-1288, [PDF](https://people.csail.mit.edu/tatbul/publications/bao_sigrec22.pdf), [Slides](https://15799.courses.cs.cmu.edu/spring2022/slides/17-queryopt1.pdf)
  - [Bao, a learned query optimizer for PostgreSQL](https://github.com/learnedsystems/BaoForPostgreSQL)
@@ -46,3 +50,21 @@ Christoph A, Nesime T, David C, Zhenggang X and Prithviraj P (2023) [AutoSteer: 
  - [QO-Insight](https://github.com/christophanneser/QO-Insight)
 
 Rong Z, Lianggui W, Wenqing W, Di W, Jiazheng P, Yifan W, etc. (2024) [PilotScope: steering databases with machine learning drivers](https://dl.acm.org/doi/10.14778/3641204.3641209) Proceedings of the VLDB Endowment, Vol 17(5), pp. 980-993 [PDF](https://bolinding.github.io/papers/vldb24pilotscope.pdf)
+
+## Bandit Algorithm Related
+
+Olivier C and Lihong L (2011) [An empirical evaluation of thompson sampling](https://dl.acm.org/doi/10.5555/2986459.2986710) NIPS'11: Proceedings of the 24th International Conference on Neural Information Processing Systems, Dec. 2011, pp. 2249-2257 [PDF](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/thompson.pdf)
+
+
+
+# Database Related Paper Lists on Github
+
+### [Database Learning](https://github.com/pingcap/awesome-database-learning)
+### [OLTP](https://github.com/wengsy150943/Paper4OLTPandConcurrencyTesting)
+### [OLAP](https://github.com/Wind-Gone/awesome-olap-paper)
+### [AI4DB](https://github.com/Wind-Gone/awesome-ai4db-paper)
+### [Fuzzing](https://wcventure.github.io/FuzzingPaper/)
+### [Industry](https://github.com/Wind-Gone/awesome-dbgiant-Industry-paper)
+### [Readings in Database Systems](http://www.redbook.io/all-readings.html)
+
+
