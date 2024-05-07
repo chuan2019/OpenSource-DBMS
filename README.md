@@ -86,6 +86,7 @@ Rong Z, Lianggui W, Wenqing W, Di W, Jiazheng P, Yifan W, etc. (2024) [PilotScop
 
 Claude L, Pavel S and Kurt S (2023) [Is your learned query optimizer behaving as you expected? a machine learning perspective](https://dblp.org/rec/journals/corr/abs-2309-01551.html) PVLDB, Vol. 17, 2023-2024, [PDF](https://arxiv.org/pdf/2309.01551)
 
+Guy Lohman (2014) [Is query optimization a "solved" problem?](https://www.semanticscholar.org/paper/Is-query-optimization-a-'solved'-problem-Lohman/c658d835adcda0466052d14f8b81c52c8ee0dd4b) ACM Sigmod Blog [PDF](https://dsf.berkeley.edu/cs286/papers/queryopt-sigmodblog2014.pdf)
 
 ## Bandit Algorithm Related
 
