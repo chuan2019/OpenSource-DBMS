@@ -8,7 +8,7 @@
 |     MonetDB          |          C           |        Column        |         No           | https://github.com/MonetDB/MonetDB       | https://www.monetdbsolutions.com/                            |
 |       MySQL          |        C++/C         |         Row          |         No           | https://github.com/mysql/mysql-server    | https://dev.mysql.com/                                       |
 |      MariaDB         |        C++/C         |         Row          |         No           | https://github.com/MariaDB/server        | https://mariadb.com/                                         |
-|     PostgreSQL       |          C           |         Row          |         No           | https://github.com/postgres/postgres     | https://www.postgresql.org/                                  |
+|     PostgreSQL       |          C           |         Row          |         No           | https://github.com/postgres/postgres     | https://www.postgresql.org/, https://www.enterprisedb.com/   |
 |     YugabyteDB       |        C/C++         |        Column        |        Yes           | https://github.com/yugabyte/yugabyte-db  | https://www.yugabyte.com/                                    |
 |    FirebirdSQL       |        C++/C         |         Row          |         No           | https://github.com/FirebirdSQL/firebird  | https://firebirdsql.org/                                     |
 |    CockroachDB       |         Go           |        Column        |        Yes           | https://github.com/cockroachdb/cockroach | https://www.cockroachlabs.com/product/                       |
