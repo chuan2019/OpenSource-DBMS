@@ -30,4 +30,8 @@
 |         DBMS         |       Language       |     Cloud Native     |                 Github Repo                   |                    Affliated Organization                    |
 | -------------------- | -------------------- | -------------------- | --------------------------------------------- | ------------------------------------------------------------ |
 |        qdrant        |         Rust         |         Yes          | https://github.com/qdrant/qdran               | https://qdrant.tech                                          |
-
+|        milvus        |       Go & C++       |         Yes          | https://github.com/milvus-io/milvus           | https://milvus.io/                                           |
+|       pgvector       |          C           |         No           | https://github.com/pgvector/pgvector          | https://www.postgresql.org/                                  |
+|       weaviate       |          Go          |         Yes          | https://github.com/weaviate/weaviate          | https://weaviate.io/                                         |
+|        FAISS         |         C++          |         Yes          | https://github.com/facebookresearch/faiss     | https://opensource.fb.com/                                   |
+|        ANNOY         |     C++ & Python     |         Yes          | https://github.com/spotify/annoy              | https://engineering.atspotify.com/?s=annoy                   |
